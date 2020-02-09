@@ -1,2 +1,3 @@
-# rsschool-cv
-[Link to CV](https://MariaSokolova.github.io/rsschool-cv/cv)
+## Link to CV
+
+https://mariasokolova.github.io/rsschool-cv/cv
