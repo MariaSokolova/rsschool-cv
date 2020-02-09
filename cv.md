@@ -18,7 +18,7 @@ I finished several online trainings, mostly Udemy's courses, also took part in f
 - Responsive design
 - Basic knowledge SASS/SCSS, Bootstrap, Angular, SQL, Webpack, Git
   
-####Soft skills  
+####Soft skills
 - Self-organized
 - Positive thinking
 - Negotiation experience
@@ -28,4 +28,9 @@ I finished several online trainings, mostly Udemy's courses, also took part in f
 - Theoretical courses HTML, CSS, JavaScript
 - Udemy courses: HTML, CSS, JavaScript, Bootstrap, Responsive design, Algorithms in JS, Angular
 - Workshops: Building your own UI component library using SASS / SCSS, Angular.
-    
+  
+####Languages
+- English B2
+- Polish B2
+- Russian native
+- Ukrainian native
