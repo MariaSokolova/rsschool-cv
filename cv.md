@@ -8,8 +8,12 @@ _[GitHub Account](https://github.com/MariaSokolova)_
 
 ####Summary
 
-I'm interested in web development and trying to start my career as a front-end developer.  
-I finished several online trainings, mostly Udemy's courses, also took part in few workshops, have few pet projects.
+I'm interested in web development and trying to start my career as a front-end developer.
+  
+I finished several online trainings, mostly Udemy's courses, also took part in a few workshops, have few pet projects.
+
+I like to be in the process of learning something new every day.
+I am sure that participating in this training course will help me structure my knowledge and learn JS more deeply from experienced professionals in a friendly atmosphere. 
 
 ####Hard skills
 - HTML5
